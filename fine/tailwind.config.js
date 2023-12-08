@@ -8,6 +8,7 @@ export default {
     extend: {
       fontFamily: {
         'monoton': ['Monoton', 'sans-serif'],
+        'Noticia': ['Noticia Text', ' serif']
       },
     },
   },
